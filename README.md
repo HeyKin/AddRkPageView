@@ -15,7 +15,7 @@ http://www.rkpass.cn/addtrace.jsp?url_save=http://www.rkpass.cn/u.jsp___u=换成
 跑程序，爬西刺的免费ip，软考在线（[http://www.rkpass.cn](http://www.rkpass.cn)）要求不同ip点击就算抵扣数，那需要先爬去大量的ip来做代{过}{滤}理，然后请求软考在线的ip记录接口。
 
 
-我爬的是免费的ip代{过}{滤}理，所以有很多会请求失败，就挂着程序在那里跑好了，不要急。
+我爬的是免费的ip代理，所以有很多会请求失败，就挂着程序在那里跑好了，不要急。
 
 ## 程序使用方法
 代码地址[https://github.com/HeyKin/AddRkPageView](https://github.com/HeyKin/AddRkPageView)，代码环境是JDK8+eclipse+maven
