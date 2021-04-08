@@ -25,7 +25,7 @@ public class IpCrawler {
 	
 	private final static String API = "https://www.xicidaili.com/wt/";
 	
-	private final static String RK_URL = "http://www.rkpass.cn/addtrace.jsp?url_save=http://www.rkpass.cn/u.jsp___u=307208";
+	private final static String RK_URL = "http://www.rkpass.cn/addtrace.jsp?url_save=http://www.rkpass.cn/u.jsp___u=xxxx";
 	
 	private final static int TOTAL_PAGE = 200;
 	
